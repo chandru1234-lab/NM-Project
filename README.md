@@ -28,7 +28,7 @@ This project focuses on identifying web application vulnerabilities and understa
 | 1 | CHANDRU K | Bharathidasan College of Arts and Science, Ellispettai | ck6582293@gmail.com |
 | 2 | DHANUSH B| Bharathidasan College of Arts and Science, Ellispettai | massdhanush1166@gmail.com|
 | 3 |  MURUGAN V | Bharathidasan College of Arts and Science, Ellispettai | abishek25100@gmail.com |
-| 4 | AATHIKESAVAN M| Bharathidasan College of Arts and Science, Ellispettai | aathikesavanm59@gmail.com|
+| 4 |AATHIKESAVAN M| Bharathidasan College of Arts and Science, Ellispettai | aathikesavanm59@gmail.com|
 | 5 | MOHANRAJ S | Bharathidasan College of Arts and Science, Ellispettai | mohanraj638453@gmail.com |
 
 ## Conclusion
